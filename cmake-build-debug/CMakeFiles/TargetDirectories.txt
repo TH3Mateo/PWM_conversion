@@ -1,0 +1,3 @@
+C:/Users/M/Desktop/C_code/PWM_control/cmake-build-debug/CMakeFiles/PWM_control.elf.dir
+C:/Users/M/Desktop/C_code/PWM_control/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/M/Desktop/C_code/PWM_control/cmake-build-debug/CMakeFiles/rebuild_cache.dir
